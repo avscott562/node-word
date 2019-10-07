@@ -1,0 +1,22 @@
+{
+  "name": "word",
+  "version": "1.0.0",
+  "description": "node word guess game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avscott562/node-word.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avscott562/node-word/issues"
+  },
+  "homepage": "https://github.com/avscott562/node-word#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  }
+}
