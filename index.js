@@ -1,4 +1,5 @@
 let word = require("./word.js");
+const inquirer = require("inquirer");
 
 // The file containing the logic for the course of the game, which depends on Word.js and:
 
